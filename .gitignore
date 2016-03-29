@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+
+# Intellij
+.idea
+.idea/workspace.xml
+/selenium_java_wespons.iml
+.settings/
+*.iws
+
+# Maven
+log/
+target/
+html/
+bin/
